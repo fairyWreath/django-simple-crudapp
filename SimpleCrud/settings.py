@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',       # set for mysql
         'NAME': 'cruddb',
         'USER': 'root',
-        'PASSWORD': 'swingswing7',
+        'PASSWORD': '',
         'HOST': 'localhost',   
         'PORT': '3306',
     }
