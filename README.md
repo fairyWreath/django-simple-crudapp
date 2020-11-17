@@ -1,1 +1,1 @@
-# Character_catalog_CRUD
+# Django_simple_crudapp
