@@ -1,1 +1,1 @@
-# Django_simple_crudapp
+# django-simple-crudapp
